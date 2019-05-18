@@ -1,0 +1,14 @@
+:root {
+  font-size: 16px;
+}
+
+form.hidden {
+  display: none;
+}
+
+form input,
+form select,
+form textarea {
+  display: block;
+  margin-bottom: 1rem;
+}
